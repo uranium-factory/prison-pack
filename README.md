@@ -1,3 +1,3 @@
 # prison-pack
 
-Ресурспаки SMOLEX Prison: `packs/<sha1>.zip`, кладёт CI репозитория prison-normal. Руками не править.
+Files Prison Normal: `packs/<sha1>.zip`, uploads by CI. Don't touch.
